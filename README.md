@@ -137,12 +137,8 @@ An education platform built to deliver an interactive learning experience.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shubhamadmane05&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamadmane05&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+📊 GitHub at a Glance
+<p align="center"> <a href="https://github.com/shubhamadmane05?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fshubhamadmane05&query=%24.public_repos&label=Public%20Repos&logo=github&color=181717&style=for-the-badge" alt="Public Repos" /></a> <a href="https://github.com/shubhamadmane05?tab=followers"><img src="https://img.shields.io/github/followers/shubhamadmane05?label=Followers&logo=github&color=181717&style=for-the-badge" alt="Followers" /></a> <img src="https://img.shields.io/badge/LeetCode-200%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode 200+ Solved" /> </p>
 
 ---
 
