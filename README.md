@@ -177,4 +177,4 @@ I'm looking for opportunities as a **Java Developer / Java Backend Developer** w
 
 📧 **Email:** [shubhamad0530@gmail.com](mailto:shubhamad0530@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/shubhamad05](https://www.linkedin.com/in/shubhamad05/)  
-🌐 **Portfolio:** [shubham-admane-portfolio.netlify.app](https://shubham-admane-portfolio.netlify.app/)
+
