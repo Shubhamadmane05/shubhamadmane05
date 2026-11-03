@@ -1,5 +1,3 @@
-# Hi, I'm Shubham Admane 👋
-
 <h1 align="center">Hi, I'm Shubham Admane 👋</h1>
 <h3 align="center">Java Developer &nbsp;|&nbsp; Full Stack Developer</h3>
 <h4 align="center">Spring Boot • Spring Security • React.js • MySQL</h4>
